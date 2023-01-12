@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * @file
+ * Contains welcome.module..
+ */
+
+
+/**
+ * Implements hook_theme()
+ * @return mixed
+ */
+function welcome_theme($items) {
+  $theme['welcome_page'] = [
+    'variables' => ['items' => $items],
+    'template' => 'welcome',
+  ];
+
+  return $theme;
+}

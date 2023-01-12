@@ -1,0 +1,5 @@
+welcome.settings:
+  title: Welcome sys
+  route_name: welcome.page
+  description: 'test'
+  # weight: -20

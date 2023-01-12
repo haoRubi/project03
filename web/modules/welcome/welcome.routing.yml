@@ -1,0 +1,7 @@
+welcome.page:
+  path: welcome_page
+  defaults:
+    _controller: \Drupal\welcome\Controller\WelcomeController::Welcome
+    _title: 'My welcome page in Drupal 9'
+  requirements:
+    _permission: 'access content'

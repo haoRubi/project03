@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Tours</menu_item_title>
+      <menu_item_path>tours</menu_item_path>
+      <menu_item_slug>tours</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>01/27/2022 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:983px;max-width:1000px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/img11.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;line-height:2.76em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.5em;color:rgba(232,96,76,1);">Why Choose Us</span></p><p style="margin:5px 0px 20px 0px;line-height:3.74em;"><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:2.625em;color:rgba(0,0,0,1);">Plan your Trip with World Best Travel Agency</span></p><p style="margin:5px 0px 20px 0px;line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(52,52,52,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, Nm sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, </span></p><p style="line-height:1.48em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Find Tour</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4em;"><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:2.625em;color:rgba(0,0,0,1);">Popular Destinations</span></p><p style="text-align:Center; display:block; line-height:2.09em;"><span style="font-family:'Work Sans','Arial';font-weight:500;font-size:1.125em;color:rgba(118,118,118,1);">World's best tourist destinations</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="text-align:Center; display:block; line-height:1.03em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:86px;max-width:174px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/icon1.png" alt="img" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:0.706em;color:rgba(0,0,0,1);">Paris, France</span></h2><p style="text-align:Center; display:block; line-height:1.98em;"><span style="font-family:'Work Sans','Arial';font-size:1.062em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:10px 0px 10px 0px;text-align:Center; display:block; line-height:2.19em;font-family:'Work Sans','Arial';color:rgba(119,119,119,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:86px;max-width:177px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/icon2.png" alt="img" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.5em;color:rgba(0,0,0,1);">Tokyo, Japan</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.98em;font-family:'Work Sans','Times New Roman';color:rgba(29,28,28,1);"><span style="font-family:'Work Sans','Arial';font-size:1.062em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:10px 0px 10px 0px;text-align:Center; display:block; line-height:2.19em;font-family:'Work Sans','Arial';color:rgba(119,119,119,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:86px;max-width:135px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/icon3.png" alt="img" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.5em;color:rgba(0,0,0,1);">New York, USA</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.98em;font-family:'Work Sans','Times New Roman';color:rgba(29,28,28,1);"><span style="font-family:'Work Sans','Arial';font-size:1.062em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.79em;"><span style="font-weight:700;font-size:2.625em;">Top Reviews for Fox Travels</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class=" visible-md-block d-md-block" style="clear: both;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 30px 0px;text-align:Center; display:block; line-height:2.09em;"><span style="font-family:'Work Sans','Work Sans';font-size:1.125em;">"Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor."</span></p><p style="text-align:Center; display:block; line-height:2.76em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.5em;color:rgba(232,96,76,1);">Mark Jack</span></p><p style="text-align:Center; display:block; line-height:2.76em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:75px;max-width:75px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/testimonialimg.png" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 30px 0px;text-align:Center; display:block; line-height:2.09em;font-family:'Work Sans','Times New Roman';color:rgba(29,28,28,1);"><span style="font-family:'Work Sans','Work Sans';font-size:1.125em;">"Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor."</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.76em;font-family:'Work Sans','Times New Roman';color:rgba(29,28,28,1);"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.5em;color:rgba(232,96,76,1);">Lisa Smith</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.76em;font-family:'Work Sans','Times New Roman';color:rgba(29,28,28,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:75px;max-width:75px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/testimonialimg2.png" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:4em;"><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:2.625em;color:rgba(0,0,0,1);">Best Deal of the Day?</span></p><p style="margin:0px 0px 5px 0px;text-align:Center; display:block; line-height:2.09em;"><span style="font-family:'Work Sans','Arial';font-size:1.125em;color:rgba(118,118,118,1);">World's best tourist destinations</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row5 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column50">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:10px 0px 20px 0px;line-height:1.49em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.029em;color:rgba(255,255,255,1);">Wonderful Europe Package</span></h2><h2 style="margin:10px 0px 20px 0px;line-height:0.7em;"><span style="font-weight:700;font-size:0.471em;color:rgba(250,219,10,1);">PARIS, LONDON, AMSTERDAM</span></h2><p style="line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Itinerary: Paris, London, Amsterdam</span></p><p style="line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Duration: 1 Week</span></p><p style="margin:5px 0px 20px 0px;line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Main Attraction: Eiffel Tower, Rijksmuseum, Van Gogh Museum, London Eye, Tower Of London</span></p><p style="margin:5px 0px 20px 0px;line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.562em;color:rgba(255,255,255,1);">$999/Person</span></p><p style="margin:5px 0px 0px 0px;line-height:1.48em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Book Now</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column51">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row6 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column60">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:4em;"><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:2.625em;color:rgba(0,0,0,1);">Deals &amp; Discounts for you</span></p><p style="text-align:Center; display:block; line-height:2.09em;"><span style="font-family:'Work Sans','Arial';font-size:1.125em;color:rgba(118,118,118,1);">World's best tourist destinations</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row7 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column70">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.76em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:650px;max-width:1100px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/img21.jpg" alt="img2" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.5em;color:rgba(0,0,0,1);">Rome</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column71">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.19em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:383px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/towerbridgelondonuk.jpg" alt="xz" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.5em;color:rgba(0,0,0,1);">London</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column72">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.19em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:383px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/img3.jpg" alt="img3" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.5em;">Canada</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row8 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column80">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.19em;font-family:'Work Sans','Times New Roman';color:rgba(29,28,28,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:217px;max-width:343px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/img51.jpg" alt="img" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:1.5em;color:rgba(0,0,0,1);">Spain</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column81">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.19em;font-family:'Work Sans','Times New Roman';color:rgba(29,28,28,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:217px;max-width:343px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/img61.jpg" alt="img" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:1.5em;color:rgba(0,0,0,1);">Dubai</span></p><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column82">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.19em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:262px;max-width:415px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/img7.jpg" alt="img" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:1.5em;color:rgba(0,0,0,1);">Italy</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_name>About Us</page_name>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>01/27/2022 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1280px;max-width:1280px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/backviewislandoutdoorstreestanding.jpg" alt="dgf" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="line-height:1.21em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.029em;color:rgba(0,0,0,1);">Effortless Travel </span></h2><h2 style="line-height:1.21em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.029em;color:rgba(0,0,0,1);">Planning</span></h2><p style="margin:5px 0px 5px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat </span></p><p style="margin:5px 0px 20px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">enim diam eget metus.Maecenas ornare tortor.</span></p><p style="line-height:1.48em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="text-align:Right; display:block; line-height:1.49em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.029em;color:rgba(0,0,0,1);">Unforgettable Traveling</span></h2><p style="text-align:Right; display:block; line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat </span></p><p style="margin:5px 0px 20px 0px;text-align:Right; display:block; line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">enim diam eget metus.Maecenas ornare tortor.</span></p><p style="text-align:Right; display:block; line-height:1.48em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column03">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1280px;max-width:1280px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/smileywomanposingherbaggage.jpg" alt="cvb " /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="line-height:1.49em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.029em;color:rgba(0,0,0,1);">Meet Our Best Tour Guides</span></h2><p style="line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1524px;max-width:1280px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/frontviewhappymaletravelerwithbackpackmaskgivingthumbsup.jpg" alt="gjg" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1524px;max-width:1280px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/xdxf.jpg" alt="vh" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_name>Contact</page_name>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>01/27/2022 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-7 col-lg-7 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.17em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.875em;color:rgba(0,0,0,1);">Get a Quotes</span></p><p><form id="ContactForm0" class="form-horizontal" role="form" method="post" action="#" /></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-5 col-lg-5 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:10px 0px 20px 0px;"><span style="font-family:'Poppins','Arial';font-weight:600;color:rgba(0,0,0,1);">Need help?</span></h2><p style="margin:5px 0px 20px 0px;line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</span></p><p style="margin:16px 0px 16px 0px;line-height:2.19em;color:rgba(91,192,222,1);"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.5em;color:rgba(0,0,0,1);">Address</span></p><p style="margin:5px 0px 5px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:5px 0px 5px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">New York City</span></p><p style="margin:5px 0px 5px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">NY 10005, USA</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+      <contactforms><contactform id="373a4aa6-67ba-40b2-8740-7b192738e57c" BrowseButtonVisibility="Visible" msg_name="Message"><ListViewItem HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="{x:Null}" Name="Name" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Name</ListViewItem><ListViewItem ContentStringFormat="Email" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="Email" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="Mandate" Name="Email" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Email</ListViewItem><ListViewItem HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="{x:Null}" Name="Subject" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Subject</ListViewItem></contactform></contactforms>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Tours</page_title>
+      <alias>tours</alias>
+      <page_name>Tours</page_name>
+      <page_header_id>tours</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>01/27/2022 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_tours_html_row0 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/midtownmanhattannewyorkcityusa.jpg" alt="gcb" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-8 col-lg-8 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2><span style="font-family:'Poppins','Arial';font-weight:500;color:rgba(0,0,0,1);">USA</span></h2><p style="line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero </span></p><p style="margin:5px 0px 20px 0px;line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(32,201,231,1);">10 Days&nbsp;&nbsp; 16+&nbsp;&nbsp; Hotel&nbsp;&nbsp;Tour guide</span></p><p style="line-height:1.66em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.125em;color:rgba(0,0,0,1);">$999/person&nbsp;&nbsp; </span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:233px;max-width:349px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/moscowkremlinsummernight.jpg" alt="x" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-8 col-lg-8 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column03">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:10px 0px 10px 0px;line-height:2.72em;color:rgba(119,119,119,1);"><span style="font-family:'Poppins','Arial';font-weight:500;font-size:1.875em;color:rgba(0,0,0,1);">Russia</span></p><p style="margin:5px 0px 5px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero </span></p><p style="margin:5px 0px 20px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(32,201,231,1);">10 Days&nbsp;&nbsp; 16+&nbsp;&nbsp; Hotel&nbsp;&nbsp;Tour guide</span></p><p style="margin:5px 0px 5px 0px;line-height:1.66em;color:rgba(51,51,51,1);"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.125em;color:rgba(0,0,0,1);">$999/person </span>.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_tours_html_row1 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:233px;max-width:349px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/famousstpetersbasilicavaticancityskywithbeautifulcolors.jpg" alt="hh" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-8 col-lg-8 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:10px 0px 10px 0px;line-height:2.72em;color:rgba(119,119,119,1);"><span style="font-family:'Poppins','Arial';font-weight:500;font-size:1.875em;color:rgba(0,0,0,1);">Spain</span></p><p style="margin:5px 0px 5px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero </span></p><p style="margin:5px 0px 20px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(32,201,231,1);">10 Days&nbsp;&nbsp; 16+&nbsp;&nbsp; Hotel&nbsp;&nbsp;Tour guide</span></p><p style="margin:5px 0px 5px 0px;line-height:1.66em;color:rgba(51,51,51,1);"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.125em;color:rgba(0,0,0,1);">$999/person&nbsp;&nbsp; </span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/moscowkremlinsummernight1.jpg" alt="bvx" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-8 col-lg-8 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:10px 0px 10px 0px;line-height:2.72em;color:rgba(119,119,119,1);"><span style="font-family:'Poppins','Arial';font-weight:500;font-size:1.875em;color:rgba(0,0,0,1);">Japan</span></p><p style="margin:5px 0px 5px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero </span></p><p style="margin:5px 0px 20px 0px;line-height:1.48em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(32,201,231,1);">10 Days&nbsp;&nbsp; 16+&nbsp;&nbsp; Hotel&nbsp;&nbsp;Tour guide</span></p><p style="margin:5px 0px 5px 0px;line-height:1.66em;color:rgba(51,51,51,1);"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.125em;color:rgba(0,0,0,1);">$999/person&nbsp;&nbsp; </span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_tours_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.17em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.188em;color:rgba(0,0,0,1);">We Help To Save Your Money</span></p><p style="text-align:Center; display:block; "><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing </span></p><p style="text-align:Center; display:block; "><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">elit.Nullam dignissim convallis </span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_tours_html_row3 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="text-align:Center; display:block; line-height:1.03em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:70px;max-width:70px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/security1.png" alt="zX" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:0.706em;color:rgba(0,0,0,1);">Secure Payment</span></h2><p style="text-align:Center; display:block; line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi</span><span style="font-family:'Work Sans','Arial';font-size:1em;">,</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="text-align:Center; display:block; line-height:1.03em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:70px;max-width:70px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/customerservice1.png" alt="xz" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:0.706em;color:rgba(0,0,0,1);">Online Support</span></h2><p style="text-align:Center; display:block; line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_tours_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="text-align:Center; display:block; line-height:1.03em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:70px;max-width:70px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/moneybag.png" alt="xz" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:0.706em;color:rgba(0,0,0,1);">Money Guarantee</span></h2><p style="text-align:Center; display:block; line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(118,118,118,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height:1.75em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;color:rgba(255,255,255,1);">About Us</span></h4><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>tours</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn2">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height:1.75em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;color:rgba(255,255,255,1);">Services</span></h4><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">About Us</span></p><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Listing</span></p><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">How It Works</span></p><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Our Services</span></p><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Our Blog</span></p><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Contact Us</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>tours</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn3">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height:1.75em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;color:rgba(255,255,255,1);">Address</span></h4><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">New York City</span></p><p style="line-height:2.06em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">NY 10005, USA</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>tours</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn4">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height:1.75em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;color:rgba(255,255,255,1);">Get In Touch</span></h4><p style="line-height:2.06em;"><br style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/Facebook.png" /><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Facebook</span></p><p style="line-height:2.06em;"><br style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/Twitter.png" /><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">Twitter</span></p><p style="line-height:2.06em;"><br style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/LinkedIn.png" /><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(255,255,255,1);">LinkedIn</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>tours</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes>
+      <header name="headershape00">
+        <block name="headershape00" tt_blockID="header_cell00" title="header_block00">
+          <content><![CDATA[<div class="html_content"><p style="line-height:2.06em;"><span style="color:rgba(225,225,225,1);">Call at: +1-234-567-8901&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; Email at: info@travelerz.com</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>tours</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape01">
+        <block name="headershape01" tt_blockID="header_cell01" title="header_block01">
+          <content><![CDATA[<div class="html_content"><p style="line-height:1.48em;"><span style="font-family:'Work Sans','Arial';font-size:1em;color:rgba(225,225,225,1);">Follow us on:</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>tours</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape12">
+        <block name="headershape12" tt_blockID="header_cell12" title="header_block12">
+          <content><![CDATA[<div class="html_content"><p style="line-height:3.17em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.188em;color:rgba(255,255,255,1);">About Us</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>about-us</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape22">
+        <block name="headershape22" tt_blockID="header_cell22" title="header_block22">
+          <content><![CDATA[<div class="html_content"><p style="line-height:3.17em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.188em;color:rgba(255,255,255,1);">Contact Us</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>contact</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape32">
+        <block name="headershape32" tt_blockID="header_cell32" title="header_block32">
+          <content><![CDATA[<div class="html_content"><p style="line-height:3.17em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.188em;color:rgba(255,255,255,1);">Tour Package</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>tours</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+    </headershapes>
+    <slideshowshapes />
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>

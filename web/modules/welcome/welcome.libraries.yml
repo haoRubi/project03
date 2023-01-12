@@ -1,0 +1,5 @@
+welcome-styles:
+  version: 8.0.0
+  css:
+    base:
+      css/wel.css: {}
